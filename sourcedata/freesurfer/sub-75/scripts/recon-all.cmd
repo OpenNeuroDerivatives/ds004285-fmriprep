@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Mx/Z4/MD5E-s21928--85eac511d0e361239ea092925edb21db.cmd/MD5E-s21928--85eac511d0e361239ea092925edb21db.cmd
+/annex/objects/MD5E-s21928--85eac511d0e361239ea092925edb21db.cmd
