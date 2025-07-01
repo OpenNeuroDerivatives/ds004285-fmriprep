@@ -1,0 +1,39 @@
+Warning: Permanently added 'c183-171' (ECDSA) to the list of known hosts.
+WARNING (02/21/24 23:14:37): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6123602.hostlist.pjAbbey5 to get hosts
+starting job on c183-171
+starting job on c184-011
+starting job on c184-013
+starting job on c184-053
+starting job on c184-061
+starting job on c185-014
+starting job on c185-113
+starting job on c185-121
+starting job on c187-072
+starting job on c187-074
+starting job on c188-072
+starting job on c188-101
+starting job on c188-182
+starting job on c189-032
+starting job on c189-034
+starting job on c189-042
+starting job on c189-054
+starting job on c189-102
+starting job on c190-001
+starting job on c190-062
+slurmstepd: error: *** JOB 6123602 ON c183-171 CANCELLED AT 2024-02-22T15:12:20 DUE TO TIME LIMIT ***
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Terminated
